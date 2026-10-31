@@ -1,0 +1,14 @@
+{
+  "name": "riag-wasm-example-node",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "RiaGraph Team",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "riag-wasm": "^0.8.0"
+  }
+}
